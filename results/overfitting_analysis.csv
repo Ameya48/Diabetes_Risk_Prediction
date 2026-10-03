@@ -1,0 +1,6 @@
+Model,Train Accuracy,Test Accuracy,Difference (Train - Test),Generalization Status
+Logistic Regression,0.7964,0.7078,0.0886,Slight Overfitting
+KNN,0.8306,0.7532,0.0774,Slight Overfitting
+Decision Tree,1.0,0.6818,0.3182,Severe Overfitting
+Random Forest,1.0,0.7792,0.2208,Severe Overfitting
+Gradient Boosting,0.9251,0.7597,0.1653,Severe Overfitting
