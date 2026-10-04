@@ -84,7 +84,6 @@ DiabetesRiskPrediction/
 ├── evaluate_models.py                     # Phase 4 Model evaluation script
 ├── analyze_features_and_overfitting.py    # Phase 5 Feature importance script
 ├── test_integration.py                    # Phase 7 Integration test suite
-├── VIVA_PREPARATION_GUIDE.md              # Phase 8 Exam & Viva study guide
 ├── requirements.txt                       # Project Python dependencies
 └── README.md                              # Comprehensive project documentation
 ```
